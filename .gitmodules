@@ -1,0 +1,4 @@
+[submodule "cChannel-eth"]
+	path = cChannel-eth
+	url = git@github.com:celer-network/cChannel-eth.git
+	branch = master
